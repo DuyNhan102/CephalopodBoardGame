@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "cstdlib": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
